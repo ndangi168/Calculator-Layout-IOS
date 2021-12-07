@@ -1,8 +1,5 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Calculator Layout Boss Challenge
-
-No knowledge is your own until you put it into practice. Using what you've learnt about auto layout, stack views and setting constraints, create the following UI. 
+This is practice repo. made to practice swift code. It was initially made by app brewery.
 
 ## Portrait
 
